@@ -20,3 +20,4 @@
 ![image](https://user-images.githubusercontent.com/45617707/115987822-aa6e7880-a5f1-11eb-96e4-962d3e5c4a66.png)
 
 ## 구현 결과 사진
+![X-ray](https://user-images.githubusercontent.com/39369255/173770476-ffc15b72-644d-4eef-8abb-fbe5e540a090.png)
